@@ -1,6 +1,6 @@
 # Assignment Project
 
-This project is a part of my assignment . This project is a part of my assignment for a freelancing website. It implements a responsive web application for managing a freelancing platform, including features such as registering for getting projects, homepage that shows achievements , most asked questions , quotes related to company and many more.
+This project is a part of my assignment for a freelancing website. It implements a responsive web application for managing a freelancing platform, including features such as registering for getting projects, homepage that shows achievements , most asked questions , quotes related to company and many more.
 
 ## Technologies Used
 
