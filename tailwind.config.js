@@ -6,6 +6,7 @@ module.exports = {
       fontFamily: {
         grace: ["Covered By Your Grace", "cursive"],
         manrope: ["Manrope", "sans-serif"],
+        switzer: ["Switzer", "sans-serif"],
       },
     },
   },
