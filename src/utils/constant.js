@@ -25,6 +25,11 @@ export const questionAnswers = [
   {
     question: "Who can help me pick a right skillset and duration for me?",
     answer:
-      "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "Is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
   },
+];
+export const texts = [
+  "Enhance fortune 50 company’s insights teams research capabilities",
+  " Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. ",
+  "Is simply dummy text of the printing and typesetting industry.",
 ];
