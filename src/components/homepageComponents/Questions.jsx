@@ -1,5 +1,5 @@
 import React from "react";
-
+import question from "../../assets/images/question.png";
 import Accordion from "./Accordion";
 import { questionAnswers } from "../../utils/constant";
 const Questions = () => {
@@ -14,7 +14,7 @@ const Questions = () => {
             <p className="font-manrope text-[60px] leading-[66px] ">
               Ask Questions{" "}
             </p>
-            {/* <img src={arrow} alt="" className="bg-black" /> */}
+            <img src={question} alt="" className=" w-2/3 mt-10" />
           </div>
         </div>
       </div>
