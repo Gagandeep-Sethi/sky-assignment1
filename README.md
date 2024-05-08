@@ -8,7 +8,7 @@ This project is a part of my assignment for a freelancing website. It implements
 
 ## Installation
 
-- Make a folder name oof your choice
+- Make a folder name of your choice
 
 - open that folder inside you code editor and paste below cmd
 
