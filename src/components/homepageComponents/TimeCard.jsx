@@ -2,7 +2,7 @@ import React from "react";
 import rocket from "../../assets/images/rocket.png";
 const TimeCard = ({ time, quote }) => {
   return (
-    <div className="flex bg-white items-center pl-4 pr-7 py-3  rounded-[111.54px] shadow-xl ">
+    <div className="flex bg-white items-center pl-4 pr-7 py-3  rounded-[111.54px] shadow-xl hover:shadow-2xl">
       <div className="bg-green-50 rounded-full p-2 mr-2">
         <img src={rocket} alt="" className="w-8 h-8" />
       </div>
