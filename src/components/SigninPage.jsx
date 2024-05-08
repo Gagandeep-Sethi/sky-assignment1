@@ -89,11 +89,13 @@ const SigninPage = () => {
                 disabled={!isFormFilled || error}
                 type="submit"
                 className={
-                  "p-6  bg-zinc-900 text-white text-lg  font-manrope rounded-full mt-8 " +
-                  (!isFormFilled || error
-                    ? "bg-stone-300 cursor-not-allowed"
-                    : "")
+                  "p-6  text-white text-lg font-manrope rounded-full mt-8 " +
+                  (error || !isFormFilled ? "cursor-not-allowed" : "")
                 }
+                style={{
+                  backgroundColor:
+                    error || !isFormFilled ? "#d6d3d1" : "#18181b",
+                }}
                 onClick={handleSumbit}
               >
                 Submit
