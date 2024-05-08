@@ -19,7 +19,7 @@ This project is a part of my assignment for a freelancing website. It implements
 
 Start the development server by running following cmd:
 
-- npm start
+- npm run start
 
 - Open your browser and navigate to http://localhost:3000 to view the website.
 
